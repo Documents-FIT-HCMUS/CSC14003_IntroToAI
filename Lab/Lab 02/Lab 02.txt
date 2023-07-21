@@ -1,9 +1,0 @@
-Hướng dẫn làm bài:
-Các bạn download file Project02_logic.zip đính kèm. Các bạn đọc hướng dẫn và làm bài theo file Project02_logic.ipynb
-
-Hướng dẫn nộp bài:
-Các bạn làm theo hướng dẫn file Project02_logic.ipynb, zip tất cả các file lại và nộp 1 file theo cú pháp <MSSV>.zip
-Liên hệ thắc mắc:
-Khi có thắc mắc trong quá trình làm bài, các bạn đặt câu hỏi tại https://docs.google.com/spreadsheets/d/1kCCcIN8m3un0VNZYeDA6oqv6ruD9GwZKN1mHmquTc-c/edit#gid=0. Ngoài ra, các bạn có thể gửi mail đến:  Lê Thanh Phong (windy.professor@gmail.com) với tiêu đề:
-
- [CSTTNT - CQ19_3][Lab02] - <Tóm tắt nội dung thắc mắc>
